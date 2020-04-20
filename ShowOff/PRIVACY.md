@@ -1,4 +1,4 @@
-![](https://showoffonlineshowboards.com/wp-content/uploads/2018/12/cropped-SHOWOFF-ICON.png =300x)
+<img src="https://showoffonlineshowboards.com/wp-content/uploads/2018/12/cropped-SHOWOFF-ICON.png" alt="icon" style="width:200px;"/>
 # SHOWOFF Online Showboards
 ## PRIVACY POLICY
 
