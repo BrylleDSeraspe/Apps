@@ -1,4 +1,5 @@
-<img src="https://showoffonlineshowboards.com/wp-content/uploads/2018/12/cropped-SHOWOFF-ICON.png" alt="icon" style="width:200px;"/>
+<img src="https://showoffonlineshowboards.com/wp-content/uploads/2018/12/cropped-SHOWOFF-ICON.png" alt="icon" width="200"/>
+
 # SHOWOFF Online Showboards
 ## PRIVACY POLICY
 
